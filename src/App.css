@@ -1,0 +1,30 @@
+.App {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color-in-hex {
+    width: 300px;
+    height: 100px;
+    border: none;
+    font-size: 30px;
+    text-align: center;
+}
+
+.color-in-hex:focus {
+    outline: 3px solid rgba(0, 0, 0, 0.5);
+}
+
+.color-in-rgb {
+    width: 306px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
