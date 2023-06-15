@@ -1,4 +1,4 @@
-
+https://jdaianova.github.io/converter-colors/
 
 Конвертер цветов из HEX в RGB
 Вам необходимо разработать конвертер цветов из HEX в RGB.
